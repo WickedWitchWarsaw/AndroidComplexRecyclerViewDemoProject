@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">RecyclerViewComplexProject</string>
+    <string name="string">HardCodedString</string>
+
+    <string name="descriptionDetails">Description: %1$s</string>
+    <string name="factDetail">Fact: %1$s</string>
+
+
+    <string name="intro_header">IntroHeaderFragment2</string>
+    <string name="intro_body">made by wickedWitch Projects. Zuz.
+    Vitae, cursus. Interdum lacus curae; eros.
+        Vehicula mattis ultricies. Etiam porta lobortis lobortis
+        potenti sem purus risus. Scelerisque hymenaeos
+        lectus integer sociis urna scelerisque. Augue id leo
+        ligula posuere curabitur Aliquet hymenaeos
+        mus at hymenaeos. Potenti convallis nunc.
+        Suspendisse praesent in dis lobortis risus
+        varius bibendum nullam class ultrices maecenas.
+    </string>
+
+
+    <string name="follow_us">Follow/Test for Social Media:</string>
+
+    <string name="rush_intro">What is RUSH??</string>
+    <string name="rush_explained">RUSH EXPLAINED: test app expandable recyclerView</string>
+
+    <string name="rush_events">RUSH RECYCLERVIEW</string>
+
+
+</resources>
